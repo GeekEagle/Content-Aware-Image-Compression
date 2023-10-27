@@ -1,0 +1,117 @@
+274px-Broadway_tower_edit.jpg
+init: (186, 274)
+Time of Fast and multi-thread running in 274px-Broadway_tower_edit.jpg: 5.237611770629883
+done
+58030_1525980875562_1415866086_31320121_1061289_n.jpg
+init: (333, 500)
+Time of Fast and multi-thread running in 58030_1525980875562_1415866086_31320121_1061289_n.jpg: 16.68664526939392
+done
+800px-Fernando_noronha.jpg
+init: (600, 800)
+Time of Fast and multi-thread running in 800px-Fernando_noronha.jpg: 45.50220465660095
+done
+arch_sunset.jpg
+init: (500, 376)
+Time of Fast and multi-thread running in arch_sunset.jpg: 18.67845892906189
+done
+bench2.jpg
+init: (203, 305)
+Time of Fast and multi-thread running in bench2.jpg: 6.206554651260376
+done
+big-eyed-cat.jpg
+init: (350, 250)
+Time of Fast and multi-thread running in big-eyed-cat.jpg: 8.7207772731781
+done
+Car.bmp
+init: (385, 384)
+Time of Fast and multi-thread running in Car.bmp: 14.533464193344116
+done
+car.jpg
+init: (244, 325)
+Time of Fast and multi-thread running in car.jpg: 7.827190160751343
+done
+cat.jpg
+init: (40, 40)
+Time of Fast and multi-thread running in cat.jpg: 0.2138218879699707
+done
+design_icon_set-40-scr.jpeg
+init: (340, 440)
+Time of Fast and multi-thread running in design_icon_set-40-scr.jpeg: 14.964580059051514
+done
+Dolphin.bmp
+init: (200, 239)
+Time of Fast and multi-thread running in Dolphin.bmp: 4.865430593490601
+done
+DSCN4118.JPG
+init: (78, 104)
+Time of Fast and multi-thread running in DSCN4118.JPG: 0.9555473327636719
+done
+gladiator.jpg
+init: (329, 222)
+Time of Fast and multi-thread running in gladiator.jpg: 7.363448143005371
+done
+Image1.bmp
+init: (300, 400)
+Time of Fast and multi-thread running in Image1.bmp: 11.40994119644165
+done
+Image2.bmp
+init: (738, 729)
+Time of Fast and multi-thread running in Image2.bmp: 51.670584201812744
+done
+Image3.bmp
+init: (466, 700)
+Time of Fast and multi-thread running in Image3.bmp: 31.29516339302063
+done
+new.jpg
+init: (248, 331)
+Time of Fast and multi-thread running in new.jpg: 8.353017807006836
+done
+osaka_hall.jpg
+init: (174, 310)
+Time of Fast and multi-thread running in osaka_hall.jpg: 5.330591917037964
+done
+Pic1.jpg
+init: (375, 500)
+Time of Fast and multi-thread running in Pic1.jpg: 17.97422170639038
+done
+plier.jpg
+init: (180, 354)
+Time of Fast and multi-thread running in plier.jpg: 6.171241521835327
+done
+rain.jpg
+init: (230, 360)
+Time of Fast and multi-thread running in rain.jpg: 8.187641382217407
+done
+Ratatoulille.bmp
+init: (256, 640)
+Time of Fast and multi-thread running in Ratatoulille.bmp: 15.744579553604126
+done
+Road.bmp
+init: (193, 448)
+Time of Fast and multi-thread running in Road.bmp: 8.73712682723999
+done
+Sea.bmp
+init: (426, 568)
+Time of Fast and multi-thread running in Sea.bmp: 22.772042274475098
+done
+shoes.jpg
+init: (230, 355)
+Time of Fast and multi-thread running in shoes.jpg: 8.083475828170776
+done
+Shore.jpg
+init: (281, 450)
+Time of Fast and multi-thread running in Shore.jpg: 12.319010972976685
+done
+snow.jpg
+init: (220, 330)
+Time of Fast and multi-thread running in snow.jpg: 7.167736530303955
+done
+Tunnel.jpg
+init: (186, 220)
+Time of Fast and multi-thread running in Tunnel.jpg: 4.190760374069214
+done
+Vase.bmp
+init: (355, 191)
+Time of Fast and multi-thread running in Vase.bmp: 7.130072832107544
+done
+Process finished with exit code 0

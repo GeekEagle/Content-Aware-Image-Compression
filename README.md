@@ -1,5 +1,4 @@
-# COSC-520-Project-Group-2------Image-Content-Aware-Resize
-COSC 520 Project Group 2 ---- Image Content-Aware Resize
+Image-Content-Aware-Resize
 
 The comments is in file faster_energy_function_multithread.py
 

@@ -1,4 +1,4 @@
-Image-Content-Aware-Resize
+Content-Aware Image Compression
 
 The comments are in the file faster_energy_function_multithread.py
 
